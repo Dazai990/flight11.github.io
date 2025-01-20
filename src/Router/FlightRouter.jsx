@@ -31,7 +31,7 @@ const FlightRouter = () => {
   return (
     <Routes>
       {/* Main Layout */}
-      <Route path="/flight_web" element={<FlightNavbar />}>
+      <Route path="/flight" element={<FlightNavbar />}>
         <Route index element={<Home />} />
         <Route path="flights" element={<Flights />} />
         <Route path="contacts" element={<Contacts />} />
