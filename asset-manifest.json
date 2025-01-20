@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/flight_web/static/css/main.19d3caef.css",
-    "main.js": "/flight_web/static/js/main.dc2dc4a1.js",
+    "main.js": "/flight_web/static/js/main.5bf9ae26.js",
     "static/js/488.d89a517f.chunk.js": "/flight_web/static/js/488.d89a517f.chunk.js",
     "static/media/sun_aero.jpg": "/flight_web/static/media/sun_aero.4c0c8dffa3561ab9eff7.jpg",
     "static/media/s-img.avif": "/flight_web/static/media/s-img.692eb21fe959bc92fb41.avif",
     "index.html": "/flight_web/index.html",
     "main.19d3caef.css.map": "/flight_web/static/css/main.19d3caef.css.map",
-    "main.dc2dc4a1.js.map": "/flight_web/static/js/main.dc2dc4a1.js.map",
+    "main.5bf9ae26.js.map": "/flight_web/static/js/main.5bf9ae26.js.map",
     "488.d89a517f.chunk.js.map": "/flight_web/static/js/488.d89a517f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19d3caef.css",
-    "static/js/main.dc2dc4a1.js"
+    "static/js/main.5bf9ae26.js"
   ]
 }
