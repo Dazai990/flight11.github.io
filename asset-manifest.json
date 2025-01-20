@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/flights_app/static/css/main.a660dfde.css",
+    "main.js": "/flights_app/static/js/main.fd8e1be3.js",
+    "static/js/488.d89a517f.chunk.js": "/flights_app/static/js/488.d89a517f.chunk.js",
+    "static/media/sun_aero.jpg": "/flights_app/static/media/sun_aero.4c0c8dffa3561ab9eff7.jpg",
+    "static/media/s-img.avif": "/flights_app/static/media/s-img.692eb21fe959bc92fb41.avif",
+    "index.html": "/flights_app/index.html",
+    "main.a660dfde.css.map": "/flights_app/static/css/main.a660dfde.css.map",
+    "main.fd8e1be3.js.map": "/flights_app/static/js/main.fd8e1be3.js.map",
+    "488.d89a517f.chunk.js.map": "/flights_app/static/js/488.d89a517f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a660dfde.css",
+    "static/js/main.fd8e1be3.js"
+  ]
+}
